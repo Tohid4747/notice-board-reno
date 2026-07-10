@@ -32,6 +32,8 @@ A full-stack Notice Board application built with **Next.js (Pages Router)**, **P
 ---
 
 ## Folder Structure
+
+```text
 notice-board-reno/
 │
 ├── components/
@@ -68,6 +70,7 @@ notice-board-reno/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
 
 ---
